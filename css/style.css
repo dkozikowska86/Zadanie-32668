@@ -1,46 +1,47 @@
-
-body {background-color: burlywood;
+body {
+    background-color: burlywood;
 }
-    section {display: block;
-    }
 
+section {
+    display: block;
+}
 
-        h1 {background-color: rgb(180, 52, 131);
-        }
+h1 {
+    background-color: rgb(180, 52, 131);
+}
         
+#first-paragraph {
+    background-color: rgb(160, 116, 182);
+}
 
-        #first-paragraph {background-color: rgb(160, 116, 182);
-        }
+h2 {
+    background-color: rgb(29, 68, 70);
+}
 
+#second-paragraph {
+    background-color: rgb(128, 180, 159);
+}
+      
+ol {
+    background-color: rgb(117, 55, 161);
+}
 
-        h2 {background-color: rgb(29, 68, 70);
-        }
+#li1 {
+    color: rgb(124, 124, 16);
+}
 
+#li2 {
+    color: rgb(190, 230, 117);
+}
 
-        #second-paragraph {background-color: rgb(128, 180, 159);
-        }
+#li3 {
+    color: rgb(20, 146, 224);
+}
+           
+#li4 {
+    color: rgb(243, 227, 235);
+}
 
-        
-        ol {background-color:rgb(117, 55, 161);
-        }
-
-        
-
-            #li1 {color: rgb(124, 124, 16);
-            }
-
-
-            #li2 {color: rgb(190, 230, 117);
-            }
-
-
-            #li3 {color: rgb(20, 146, 224);
-            }
-
-            
-            #li4 {color: rgb(243, 227, 235);
-            }
-
-
-            #li5 {color: rgb(185, 69, 2);
-            }
+#li5 {
+    color: rgb(185, 69, 2);
+}
